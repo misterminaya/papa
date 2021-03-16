@@ -1,0 +1,62 @@
+#style-switcher h2 a { background: #fff none repeat scroll 0 0 }
+#style-switcher h2 a i,
+#navigation.navbar-fixed #main-menu ul li a:hover,
+#navigation.navbar-fixed #main-menu ul li a:focus,
+#main-menu ul li a:hover,
+#main-menu ul li a:focus,
+.section-title span,
+.video-btn,
+.pack_price,
+.post-meta span i,
+.post-btn,
+#testimonial-slider .owl-nav div,
+.footer a:hover, 
+.footer a:focus,
+.tour_duration,
+.tour_slider .slick-prev::before, 
+.tour_slider .slick-next::before,
+.widget li a:hover, 
+.widget li a:focus,
+.single_blog h4 a:hover {
+	color: #9e7dd3;
+}
+
+
+.single-choose i,
+#submitButton.btn-contact-bg,
+.btn-home-bg,
+.gallery-btn,
+.widget_tag_cloud a:hover,
+.widget_tag_cloud a:focus,
+#submitButton.btn-contact-bg,
+.pagination-nav a:hover, 
+.pagination-nav a:focus, 
+.pagination-nav a.active {
+	border-color: #9e7dd3;
+	background-color: #9e7dd3;
+}
+
+.video-btn:hover,
+.video-btn:focus,
+.gallery_enlarge_icon,
+.single-counter span,
+.single_package .time_zone,
+#package-slider .owl-dots .owl-dot.active span,
+.testimonial .owl-item.active.center .single-testimonial,
+.contact_address i,
+.widget_title::after, 
+.footer .fot-title::after,
+.footer .footer-top ul li:hover:before,
+.topcontrol,
+.book_now,
+.footer .fot-title::after,
+.footer .fot-title::after,
+.widget.widget_categories ul > li:hover { 
+
+	background-color: #9e7dd3;
+}
+.single_package,
+.contact .form-control:focus,
+.search_form .form-control:focus{
+	border-color: #9e7dd3;
+}
