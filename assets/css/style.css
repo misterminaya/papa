@@ -44,8 +44,9 @@ h4,
 h5,
 h6 {
 	letter-spacing: 0px;
+	font-family: 'Poppins', sans-serif;
 	margin-top: 0px; 
-	font-family: 'Quicksand', sans-serif;
+	font-family: MADE;
 	color: #404040;
 	font-weight: 700;
 	line-height: normal;
@@ -661,6 +662,17 @@ header.smaller.header-light div#logo .logo {
 
 	.banner {
 		text-align: center;
+	}
+
+	header div#logo {
+		display:block;
+		text-align: center;
+		line-height: 60px;
+		-webkit-transition: all 0.3s;
+		-moz-transition: all 0.3s;
+		-ms-transition: all 0.3s;
+		-o-transition: all 0.3s;
+		transition: all 0.3s;
 	}
 
 }
